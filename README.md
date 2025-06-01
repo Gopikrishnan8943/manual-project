@@ -1,4 +1,4 @@
-# manual-project 
+# manual-project -CHAT GPT
 
 📄 Manual Testing Project: Login & Signup Functionality for ChatGPT Application
 This manual testing project focused on validating the core Login and Signup functionalities of the ChatGPT web application. The objective was to ensure that users could securely create new accounts, log in with valid credentials, and receive appropriate feedback for invalid attempts. Test scenarios covered form field validations, password strength enforcement, duplicate account detection, and input error handling. Functional testing verified successful navigation after login, session management, and logout behavior. Edge cases such as blank inputs, incorrect email formats,  and expired session tokens were tested to ensure security and robustness. The test cases were executed manually across multiple browsers and devices to ensure cross-platform consistency. All test results and defects were documented in a test report, which was shared with the development team for resolution. This project strengthened my understanding of functional testing, validation rules, user flow testing, and defect reporting in real-world web applications
